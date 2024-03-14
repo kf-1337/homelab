@@ -1,14 +1,14 @@
 ## This Repo is all about the HomeLab Hardware/Software
 
-Currently in the rack:
+Currently in the rack: </br>
 
-Synology NAS
-OPNSense custom box
-2x 24 Port Switches
+Synology NAS    </br>
+OPNSense custom box    </br>
+2x 24 Port Switches    </br>
 
-3x Dell R630
-3x Dell R430
-1x KVM console
-3x Ryzen systems
-2x Intel systems
-USV Schneider 900W
+3x Dell R630    </br>
+3x Dell R430    </br>
+1x KVM console    </br>
+3x Ryzen systems    </br>
+2x Intel systems    </br>
+USV Schneider 900W    </br>
